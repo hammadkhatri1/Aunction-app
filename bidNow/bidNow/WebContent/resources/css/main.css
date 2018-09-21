@@ -1,0 +1,33 @@
+
+#loginPageBlock{
+	text-align: center;
+  	
+  	}
+
+#login{
+	border:4px solid black;
+	margin: auto;
+    width: 50%;
+    padding: 10px;
+	
+}
+#newUser{
+	border: 2px solid grey;
+	margin: auto;
+    width: 50%;
+    padding: 10px;
+	
+}
+#listBox{
+	border: 2px solid black;
+	
+	margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+#itemSubmitBox{
+	border: 2px solid grey;
+	margin: auto;
+    width: 50%;
+    padding: 10px;
+}
